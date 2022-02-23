@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiagts
-- 👀 I’m interested in ...Mobile Apps, PWA, SAAS
+- 👀 I’m interested in ...Blockchain, NFT, IDO, ICO, Swap, Staking, Farming, Minning,Mobile Apps, PWA, SAAS
 - 🌱 I’m currently learning as a newbie (actually a rooky)
-- 💞️ I’m looking to collaborate on ...Mobile Apps, PWA, SAAS
+- 💞️ I’m looking to collaborate on ...Blockchain, NFT, IDO, ICO, Swap, Staking, Farming, Mobile Apps, PWA, SAAS
 - 📫 How to reach me ...email: kiagts0@gmail.com
 
 <!---
